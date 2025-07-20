@@ -37,11 +37,9 @@ Bienvenue sur mon profil GitHub !
 
 ## 🚀 Projets récents
 
-- 🔧 **[Simple Shell]([#](https://github.com/Steph974-Git/holbertonschool-simple_shell))** — Un interpréteur de commande shell écrit en C (fork, execve, PATH…)
-- 🖨️ **[Printf personnalisé]([#](https://github.com/Steph974-Git/holbertonschool-printf))** — Réimplémentation de la fonction printf avec gestion des buffers
-- 🌐 **[AirBnB Clone - HBNB]([#](https://github.com/Steph974-Git/holbertonschool-hbnb))** — Application web complète avec front et back Python/Flask + ORM + stockage en base *En cours*
-
-*(Ajoute les vrais liens GitHub de tes projets à la place des `#`)*
+- 🔧 **[Simple Shell]((https://github.com/Steph974-Git/holbertonschool-simple_shell))** — Un interpréteur de commande shell écrit en C (fork, execve, PATH…)
+- 🖨️ **[Printf personnalisé](https://github.com/Steph974-Git/holbertonschool-printf)** — Réimplémentation de la fonction printf avec gestion des buffers
+- 🌐 **[AirBnB Clone - HBNB](https://github.com/Steph974-Git/holbertonschool-hbnb)** — Application web complète avec front et back Python/Flask + ORM + stockage en base *En cours*
 
 ---
 
