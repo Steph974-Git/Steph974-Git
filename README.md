@@ -45,7 +45,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 📈 Statistiques GitHub
 
-![Steph974's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steph974-Git&layout=compact)
+![Steph974's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Steph974-Git&layout=compact&theme=dark)
 
 ---
 
