@@ -69,7 +69,7 @@ Bienvenue sur mon profil GitHub !
 ## 📫 Me contacter
 
 - 💼 LinkedIn : [Linkedin](https://www.linkedin.com/in/stephane-paton-467b07353/)
-- 🌍 Portfolio : [A venir](A venir)
+- 🌍 Portfolio : [A venir]
 - 📬 Email : 10466@holbertonstudents.com
 
 ---
