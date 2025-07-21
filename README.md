@@ -24,7 +24,6 @@ Bienvenue sur mon profil GitHub !
 
 ### 🗃️ Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2C3E50?style=flat&logo=sqlalchemy&logoColor=red)
 
 ### ⚙️ Outils & DevOps
