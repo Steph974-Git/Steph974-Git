@@ -68,7 +68,7 @@ Welcome to my GitHub profile!
 ## 📫 Contact Me
 
 - 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/stephane-paton-467b07353/)  
-- 🌍 Portfolio: [Coming soon]  
+- 🌍 Portfolio: (https://steph974-git.github.io/Landing-Page-Mova/)  
 - 📬 Email: 10466@holbertonstudents.com  
 
 ---
